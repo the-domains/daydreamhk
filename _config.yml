@@ -11,16 +11,16 @@ collections:
       format: rss
       number: 10
 color:
-  saturation: 1
+  saturation: 0
   brandStrength: 1
-  lightness: 1
+  lightness: 0.5106516
   brandColors:
     - '#FFFFFF'
-    - '#E50013'
-    - '#000000'
-    - '#2AB4A7'
-    - '#F29719'
-  rhythmicContrast: 1
+    - '#E62F17'
+    - '#989799'
+    - '#403B36'
+    - '#64FCFE'
+  rhythmicContrast: 0
 typography_spectrum: 0.4761905
 layout_spectrum: 0.03132832
 name: dayDreamhk
