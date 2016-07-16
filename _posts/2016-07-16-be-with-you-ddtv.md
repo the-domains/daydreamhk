@@ -1,7 +1,7 @@
 ---
 title: 《 常伴你左右 Be With You 》微電影 - DDTV幻想電視
-datePublished: '2016-07-16T19:35:12.273Z'
-dateModified: '2016-07-16T19:35:05.651Z'
+datePublished: '2016-07-16T19:34:39.679Z'
+dateModified: '2016-07-16T19:34:21.599Z'
 author:
   - name: hkddtv
     url: 'https://www.youtube.com/user/hkddtv'
@@ -12,8 +12,8 @@ description: >-
   dayDreamSHOW 首個劇場短片 希望您可以支持我們 , 向朋友分享我們的作品,給予我們一份支持 :D 這是我們第一次的新嘗試。或許很多不足之處
   ,望觀眾原諒 ^^ 亦歡迎各位給予寶貴的意見 , 讓我們下次能改善得更好 : ) 演員：郭劍熙，馮蒨彤 編劇：湯樂笙 攝影 , 導演 , 監製 ,
   後期製作：盧國健 幻賞dayDream © 2013 http://daydream.es/
+starred: false
 sourcePath: _posts/2016-07-16-be-with-you-ddtv.md
-starred: true
 inFeed: true
 hasPage: false
 inNav: false
