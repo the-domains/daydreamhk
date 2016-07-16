@@ -10,17 +10,17 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-typography_spectrum: 0.4761905
 color:
-  saturation: 0.5125313
+  saturation: 1
   brandStrength: 0.4924812
   lightness: 0.2061404
   brandColors:
-    - '#000000'
-    - '#0188EC'
-    - '#FEFBF4'
-    - '#FFF200'
-    - '#8D5001'
+    - '#FEFEFE'
+    - '#22202E'
+    - '#FCCD87'
+    - '#C19153'
+    - '#AF3250'
   rhythmicContrast: 0
-layout_spectrum: 0.03132832
+typography_spectrum: 0.4761905
+layout_spectrum: 0.3195489
 name: dayDreamhk
