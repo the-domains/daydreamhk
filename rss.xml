@@ -2,13 +2,20 @@
     <channel>
         <title><![CDATA[dayDreamhk]]></title>
         <description><![CDATA[dayDreamhk]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/daydreamhk/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 16 Jul 2016 19:15:18 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 16 Jul 2016 19:15:44 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/daydreamhk/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[食盡香港 @ 新派健康料理 ( 吃一囗素,放一囗生! )]]></title>
+            <description><![CDATA[<article><h1>食盡香港 @ 新派健康料理 ( 吃一囗素,放一囗生! )</h1><p>食盡香港 第三集 (足本版) / 主持:NDLO,呀牧 / 後製:NDLO 店舖:蓮花 新派健康料理 - 元朗昌盛徑18號元通樓地下9號舖 DayDream.asia © 2015 / 訂閱我們頻道,給予我們動力 : ) website http://daydream.asia facebook http://fb.me/dayDream.asia instagram http://instagr.am/daydream.asia</p></article>]]></description>
+            <link>https://youtube.com/watch?v=xSf71y6qt40</link>
+            <guid isPermaLink="false">b88d4678-3e05-42af-8f09-a9a274ab5cf0</guid>
+            <pubDate>Sat, 16 Jul 2016 19:15:27 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[食盡香港 @ 自創巨型漢堡 試玩 McDonald's Create My Taste]]></title>
-            <description><![CDATA[<article><h1>食盡香港 @ 自創巨型漢堡 試玩 McDonald's Create My Taste</h1><p>食盡香港 2 第一集 / 主持: HEI ,NDLO / 後製:NDLO 試玩M記全新推出 Create My Taste 自創漢堡及試食@@ DayDream.asia © 2015 / 訂閱我們頻道,給予我們動力 : ) website http://daydream.asia facebook http://fb.me/dayDream.asia instagram http://instagr.am/daydream.asia</p></article>]]></description>
+            <description><![CDATA[<article><h1>食盡香港 @ 自創巨型漢堡 試玩 McDonald's Create My Taste</h1><p>食盡香港 2 第一集 / 主持: HEI ,NDLO / 後製:NDLO 試玩M記全新推出 Create My Taste 自創漢堡及試食@@ DayDream.asia © 2015 / 訂閱我們頻道,給予我們動力 : ) website http://daydream.asia facebook http://fb.me/dayDream.asia instagram http://instagr.am/daydream.asia</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/b33841e7acd7d023476acf930e9e00ce/noop.jpg?input=https%3A%2F%2Fimg.youtube.com%2Fvi%2FiPu9pKHhZQM%2Fmaxresdefault.jpg"></article>]]></description>
             <link>https://youtube.com/watch?v=iPu9pKHhZQM</link>
             <guid isPermaLink="false">eb64a50d-9442-419b-9bd7-4a10e68a2861</guid>
             <pubDate>Sat, 16 Jul 2016 19:14:39 GMT</pubDate>
