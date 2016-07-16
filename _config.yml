@@ -1,0 +1,14 @@
+layout_spectrum: 0.7368421
+typography_spectrum: 0.4761905
+color:
+  saturation: 0.284759
+  lightness: 0.4255244
+  brandStrength: 1
+  brandColors:
+    - '#FFFFFF'
+    - '#E50013'
+    - '#000000'
+    - '#2AB4A7'
+    - '#F29719'
+  rhythmicContrast: 0.08310479
+name: dayDreamhk
