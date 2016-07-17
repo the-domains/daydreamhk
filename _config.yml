@@ -1,7 +1,7 @@
 name: dayDreamhk
 favicon: null
-layout_spectrum: 0.01343
-typography_spectrum: 0.4761905
+layout_spectrum: 0
+typography_spectrum: 0.43357
 collections:
   - index:
       path: /
@@ -35,7 +35,7 @@ color:
     - '#227bc0'
     - '#a72e8b'
   brandStrength: 0.5
-  lightness: 0.125
+  lightness: 1
   saturation: 0.5
   rhythmicContrast: 0
 purpose: []
